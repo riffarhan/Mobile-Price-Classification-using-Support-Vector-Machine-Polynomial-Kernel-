@@ -3,9 +3,10 @@
 
 ## Overview
 
-Team member: @rafli
+Team member: Arif Farhan Bukhori & Muhammad Rafli Aulia
 
-This is a final project for the course CMSC389A. Mental illness such as depression can be life threatening, with suicide as a possible outcome. In this project, a LSTM with Convolutional Neural Network is built using Keras to determine whether social platform users are depressive based on their Twitter posts. The accuracy of the model is evaluated and compared to a binary classification baseline model using logistic regression. It is discovered that the model has a 98.91% accuracy after 5 epochs, while the base line model has a much lower accuracy of 83.755%.
+This is a final project for the course Accelerated Machine Learning Program from Zenius. In this project, a Support Vector Machine (using Polynomial Kernel) is built to classify Mobile Prices
+Mental illness such as depression can be life threatening, with suicide as a possible outcome. In this project, a LSTM with Convolutional Neural Network is built using Keras to determine whether social platform users are depressive based on their Twitter posts. The accuracy of the model is evaluated and compared to a binary classification baseline model using logistic regression. It is discovered that the model has a 98.91% accuracy after 5 epochs, while the base line model has a much lower accuracy of 83.755%.
 
 Retrieving Test Data
 
