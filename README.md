@@ -2,7 +2,7 @@
 
 > Team member: Arif Farhan Bukhori & Muhammad Rafli Aulia
 ## Overview
-This is a final project for the course Accelerated Machine Learning Program from Zenius. In this project, a Support Vector Machine (using Polynomial Kernel) is built to classify Mobile Prices. We found out that the model reached an accuracy of about 95.75%. While the base line logistic regression model ha a much lower accuracy of 64.50%.
+This is a final project for the course _Accelerated Machine Learning Program_ from Zenius. In this project, a Support Vector Machine (using Polynomial Kernel) is built to classify Mobile Prices. We found out that the model reached an accuracy of about 95.75%. While the base line logistic regression model ha a much lower accuracy of 64.50%.
 
 ## Dataset
 The dataset used are from kaggle, click [here](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) to access the dataset.
