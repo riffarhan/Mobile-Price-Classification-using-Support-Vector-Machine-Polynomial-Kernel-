@@ -18,7 +18,7 @@ The dataset used are from kaggle, click [here](https://www.kaggle.com/datasets/i
 
 ## How to Run
 
-To run the [Mobile_Price_Classification_01_Diajeng_Ciptaning_Ayu.ipynb](https://github.com/riffarhan/final-project-kelompok-01-Diajeng-Ciptaning-Ayu/blob/main/Mobile_Price_Classification_01_Diajeng_Ciptaning_Ayu.ipynb) Python notebook that contains all the code, please run the following line in the project directory:
+To run the [Python File](https://github.com/riffarhan/final-project-kelompok-01-Diajeng-Ciptaning-Ayu/blob/main/Mobile_Price_Classification_01_Diajeng_Ciptaning_Ayu.ipynb) Python notebook that contains all the code, please run the following line in the project directory:
 
 ```bash
 $ jupyter notebook
